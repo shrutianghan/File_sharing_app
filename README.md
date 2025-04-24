@@ -1,16 +1,42 @@
-# my_flutter_app
+# 📁 File Sharing App
 
-A new Flutter project.
+A Flutter-based file sharing application that allows users to sign up, log in, and securely share files and data with multiple users. This app is ideal for collaborative environments where easy and efficient file distribution is key.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 **User Authentication**
+  - Sign up to create a new account
+  - Secure login functionality
+  - Firebase Authentication integration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📂 **File Sharing**
+  - Upload and share files with multiple users
+    
+- 🏠 **Main Dashboard**
+  - After successful login, users are directed to the main page
+  - Send data efficiently
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📚 Dependencies
+
+Here are the main libraries used in this project:
+
+  # Firebase core
+
+  # Firebase Authentication
+ 
+  # Firebase Cloud Firestore
+ 
+  # Firebase Storage for file uploads
+  
+  # File picker to select files
+  
+  # State management (choose one based on your setup)
+  
+  # Path and MIME type support
+
+  # UI and UX
+ 
