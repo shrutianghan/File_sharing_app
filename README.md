@@ -24,19 +24,19 @@ A Flutter-based file sharing application that allows users to sign up, log in, a
 
 Here are the main libraries used in this project:
 
-  # Firebase core
+  - Firebase core
 
-  # Firebase Authentication
+  - Firebase Authentication
  
-  # Firebase Cloud Firestore
+  - Firebase Cloud Firestore
  
-  # Firebase Storage for file uploads
+  - Firebase Storage for file uploads
   
-  # File picker to select files
+  - File picker to select files
   
-  # State management (choose one based on your setup)
+  - State management (choose one based on your setup)
   
-  # Path and MIME type support
+  - Path and MIME type support
 
-  # UI and UX
+  - UI and UX
  
